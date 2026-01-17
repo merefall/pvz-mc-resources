@@ -3,6 +3,7 @@
 	"texture_size": [32, 32],
 	"textures": {
 		"0": "pvz:item/sunflower",
+		"layer0": "pvz:item/sunflower",
 		"particle": "pvz:item/sunflower"
 	},
 	"elements": [
