@@ -1,0 +1,529 @@
+{
+  "entity.zombie.ambient": {
+    "replace": true,
+    "sounds": [
+      "custom/groan",
+      "custom/groan2",
+      "custom/groan3",
+      "custom/groan4",
+      "custom/groan5",
+      "custom/groan6"
+    ]
+  },
+  "music.game": {
+    "replace": true,
+    "sounds": []
+  },
+  "entity.zombie.hurt": {
+    "replace": true,
+    "sounds": []
+  },
+  "entity.zombie.death": {
+    "replace": true,
+    "sounds": []
+  },
+  "custom.achievement": {
+    "sounds": ["custom/achievement"]
+  },
+  "custom.awooga": {
+    "sounds": ["custom/awooga"]
+  },
+  "custom.ballooninflate": {
+    "sounds": ["custom/ballooninflate"]
+  },
+  "custom.balloon_pop": {
+    "sounds": ["custom/balloon_pop"]
+  },
+  "custom.basketball": {
+    "sounds": ["custom/basketball"]
+  },
+  "custom.bigchomp": {
+    "sounds": ["custom/bigchomp"]
+  },
+  "custom.bleep": {
+    "sounds": ["custom/bleep"]
+  },
+  "custom.blover": {
+    "sounds": ["custom/blover"]
+  },
+  "custom.boing": {
+    "sounds": ["custom/boing"]
+  },
+  "custom.bonk": {
+    "sounds": ["custom/bonk"]
+  },
+  "custom.bossboulderattack": {
+    "sounds": ["custom/bossboulderattack"]
+  },
+  "custom.bossexplosion": {
+    "sounds": ["custom/bossexplosion"]
+  },
+  "custom.bowling": {
+    "sounds": ["custom/bowling"]
+  },
+  "custom.bowlingimpact": {
+    "sounds": ["custom/bowlingimpact"]
+  },
+  "custom.bowlingimpact2": {
+    "sounds": ["custom/bowlingimpact2"]
+  },
+  "custom.bugspray": {
+    "sounds": ["custom/bugspray"]
+  },
+  "custom.bungee_scream": {
+    "sounds": ["custom/bungee_scream"]
+  },
+  "custom.bungee_scream2": {
+    "sounds": ["custom/bungee_scream2"]
+  },
+  "custom.bungee_scream3": {
+    "sounds": ["custom/bungee_scream3"]
+  },
+  "custom.butter": {
+    "sounds": ["custom/butter"]
+  },
+  "custom.buttonclick": {
+    "sounds": ["custom/buttonclick"]
+  },
+  "custom.buzzer": {
+    "sounds": ["custom/buzzer"]
+  },
+  "custom.ceramic": {
+    "sounds": ["custom/ceramic"]
+  },
+  "custom.cherrybomb": {
+    "sounds": ["custom/cherrybomb"]
+  },
+  "custom.chime": {
+    "sounds": ["custom/chime"]
+  },
+  "custom.chomp": {
+    "sounds": ["custom/chomp"]
+  },
+  "custom.chomp2": {
+    "sounds": ["custom/chomp2"]
+  },
+  "custom.chompsoft": {
+    "sounds": ["custom/chompsoft"]
+  },
+  "custom.coblaunch": {
+    "sounds": ["custom/coblaunch"]
+  },
+  "custom.coffee": {
+    "sounds": ["custom/coffee"]
+  },
+  "custom.coin": {
+    "sounds": ["custom/coin"]
+  },
+  "custom.crazydavecrazy": {
+    "sounds": ["custom/crazydavecrazy"]
+  },
+  "custom.crazydaveextralong1": {
+    "sounds": ["custom/crazydaveextralong1"]
+  },
+  "custom.crazydaveextralong2": {
+    "sounds": ["custom/crazydaveextralong2"]
+  },
+  "custom.crazydaveextralong3": {
+    "sounds": ["custom/crazydaveextralong3"]
+  },
+  "custom.crazydavelong1": {
+    "sounds": ["custom/crazydavelong1"]
+  },
+  "custom.crazydavelong2": {
+    "sounds": ["custom/crazydavelong2"]
+  },
+  "custom.crazydavelong3": {
+    "sounds": ["custom/crazydavelong3"]
+  },
+  "custom.crazydavescream": {
+    "sounds": ["custom/crazydavescream"]
+  },
+  "custom.crazydavescream2": {
+    "sounds": ["custom/crazydavescream2"]
+  },
+  "custom.crazydaveshort1": {
+    "sounds": ["custom/crazydaveshort1"]
+  },
+  "custom.crazydaveshort2": {
+    "sounds": ["custom/crazydaveshort2"]
+  },
+  "custom.crazydaveshort3": {
+    "sounds": ["custom/crazydaveshort3"]
+  },
+  "custom.dancer": {
+    "sounds": ["custom/dancer"]
+  },
+  "custom.digger_zombie": {
+    "sounds": ["custom/digger_zombie"]
+  },
+  "custom.dirt_rise": {
+    "sounds": ["custom/dirt_rise"]
+  },
+  "custom.dolphin_appears": {
+    "sounds": ["custom/dolphin_appears"]
+  },
+  "custom.dolphin_before_jumping": {
+    "sounds": ["custom/dolphin_before_jumping"]
+  },
+  "custom.doomshroom": {
+    "sounds": ["custom/doomshroom"]
+  },
+  "custom.evillaugh": {
+    "sounds": ["custom/evillaugh"]
+  },
+  "custom.explosion": {
+    "sounds": ["custom/explosion"]
+  },
+  "custom.fertilizer": {
+    "sounds": ["custom/fertilizer"]
+  },
+  "custom.finalfanfare": {
+    "sounds": ["custom/finalfanfare"]
+  },
+  "custom.finalwave": {
+    "sounds": ["custom/finalwave"]
+  },
+  "custom.firepea": {
+    "sounds": ["custom/firepea"]
+  },
+  "custom.floop": {
+    "sounds": ["custom/floop"]
+  },
+  "custom.frozen": {
+    "sounds": ["custom/frozen"]
+  },
+  "custom.fume": {
+    "sounds": ["custom/fume"]
+  },
+  "custom.gargantuar_thump": {
+    "sounds": ["custom/gargantuar_thump"]
+  },
+  "custom.gargantudeath": {
+    "sounds": ["custom/gargantudeath"]
+  },
+  "custom.grassstep": {
+    "sounds": ["custom/grassstep"]
+  },
+  "custom.gravebusterchomp": {
+    "sounds": ["custom/gravebusterchomp"]
+  },
+  "custom.gravebutton": {
+    "sounds": ["custom/gravebutton"]
+  },
+  "custom.gravestone_rumble": {
+    "sounds": ["custom/gravestone_rumble"]
+  },
+  "custom.groan": {
+    "sounds": ["custom/groan"]
+  },
+  "custom.groan2": {
+    "sounds": ["custom/groan2"]
+  },
+  "custom.groan3": {
+    "sounds": ["custom/groan3"]
+  },
+  "custom.groan4": {
+    "sounds": ["custom/groan4"]
+  },
+  "custom.groan5": {
+    "sounds": ["custom/groan5"]
+  },
+  "custom.groan6": {
+    "sounds": ["custom/groan6"]
+  },
+  "custom.gulp": {
+    "sounds": ["custom/gulp"]
+  },
+  "custom.hatchback_close": {
+    "sounds": ["custom/hatchback_close"]
+  },
+  "custom.hatchback_open": {
+    "sounds": ["custom/hatchback_open"]
+  },
+  "custom.hugewave": {
+    "sounds": ["custom/hugewave"]
+  },
+  "custom.hydraulic": {
+    "sounds": ["custom/hydraulic"]
+  },
+  "custom.hydraulic_short": {
+    "sounds": ["custom/hydraulic_short"]
+  },
+  "custom.ignite": {
+    "sounds": ["custom/ignite"]
+  },
+  "custom.ignite2": {
+    "sounds": ["custom/ignite2"]
+  },
+  "custom.imp": {
+    "sounds": ["custom/imp"]
+  },
+  "custom.imp2": {
+    "sounds": ["custom/imp2"]
+  },
+  "custom.jackinthebox": {
+    "sounds": ["custom/jackinthebox"]
+  },
+  "custom.jack_surprise": {
+    "sounds": ["custom/jack_surprise"]
+  },
+  "custom.jack_surprise2": {
+    "sounds": ["custom/jack_surprise2"]
+  },
+  "custom.jalapeno": {
+    "sounds": ["custom/jalapeno"]
+  },
+  "custom.juicy": {
+    "sounds": ["custom/juicy"]
+  },
+  "custom.kernelpult": {
+    "sounds": ["custom/kernelpult"]
+  },
+  "custom.kernelpult2": {
+    "sounds": ["custom/kernelpult2"]
+  },
+  "custom.ladder_zombie": {
+    "sounds": ["custom/ladder_zombie"]
+  },
+  "custom.lawnmower": {
+    "sounds": ["custom/lawnmower"]
+  },
+  "custom.lightfill": {
+    "sounds": ["custom/lightfill"]
+  },
+  "custom.limbs_pop": {
+    "sounds": ["custom/limbs_pop"]
+  },
+  "custom.loadingbar_flower": {
+    "sounds": ["custom/loadingbar_flower"]
+  },
+  "custom.loadingbar_zombie": {
+    "sounds": ["custom/loadingbar_zombie"]
+  },
+  "custom.losemusic": {
+    "sounds": ["custom/losemusic"]
+  },
+  "custom.lowgroan": {
+    "sounds": ["custom/lowgroan"]
+  },
+  "custom.lowgroan2": {
+    "sounds": ["custom/lowgroan2"]
+  },
+  "custom.magnetshroom": {
+    "sounds": ["custom/magnetshroom"]
+  },
+  "custom.melonimpact": {
+    "sounds": ["custom/melonimpact"]
+  },
+  "custom.melonimpact2": {
+    "sounds": ["custom/melonimpact2"]
+  },
+  "custom.mindcontrolled": {
+    "sounds": ["custom/mindcontrolled"]
+  },
+  "custom.moneyfalls": {
+    "sounds": ["custom/moneyfalls"]
+  },
+  "custom.newspaper_rarrgh": {
+    "sounds": ["custom/newspaper_rarrgh"]
+  },
+  "custom.newspaper_rarrgh2": {
+    "sounds": ["custom/newspaper_rarrgh2"]
+  },
+  "custom.newspaper_rip": {
+    "sounds": ["custom/newspaper_rip"]
+  },
+  "custom.paper": {
+    "sounds": ["custom/paper"]
+  },
+  "custom.pause": {
+    "sounds": ["custom/pause"]
+  },
+  "custom.phonograph": {
+    "sounds": ["custom/phonograph"]
+  },
+  "custom.plant": {
+    "sounds": ["custom/plant"]
+  },
+  "custom.plant2": {
+    "sounds": ["custom/plant2"]
+  },
+  "custom.plantern": {
+    "sounds": ["custom/plantern"]
+  },
+  "custom.plantgrow": {
+    "sounds": ["custom/plantgrow"]
+  },
+  "custom.plant_water": {
+    "sounds": ["custom/plant_water"]
+  },
+  "custom.plastichit": {
+    "sounds": ["custom/plastichit"]
+  },
+  "custom.plastichit2": {
+    "sounds": ["custom/plastichit2"]
+  },
+  "custom.pogo_zombie": {
+    "sounds": ["custom/pogo_zombie"]
+  },
+  "custom.points": {
+    "sounds": ["custom/points"]
+  },
+  "custom.polevault": {
+    "sounds": ["custom/polevault"]
+  },
+  "custom.pool_cleaner": {
+    "sounds": ["custom/pool_cleaner"]
+  },
+  "custom.portal": {
+    "sounds": ["custom/portal"]
+  },
+  "custom.potato_mine": {
+    "sounds": ["custom/potato_mine"]
+  },
+  "custom.prize": {
+    "sounds": ["custom/prize"]
+  },
+  "custom.puff": {
+    "sounds": ["custom/puff"]
+  },
+  "custom.rain": {
+    "sounds": ["custom/rain"]
+  },
+  "custom.readysetplant": {
+    "sounds": ["custom/readysetplant"]
+  },
+  "custom.reverse_explosion": {
+    "sounds": ["custom/reverse_explosion"]
+  },
+  "custom.roll_in": {
+    "sounds": ["custom/roll_in"]
+  },
+  "custom.RVthrow": {
+    "sounds": ["custom/RVthrow"]
+  },
+  "custom.scream": {
+    "sounds": ["custom/scream"]
+  },
+  "custom.seedlift": {
+    "sounds": ["custom/seedlift"]
+  },
+  "custom.shieldhit": {
+    "sounds": ["custom/shieldhit"]
+  },
+  "custom.shieldhit2": {
+    "sounds": ["custom/shieldhit2"]
+  },
+  "custom.shoop": {
+    "sounds": ["custom/shoop"]
+  },
+  "custom.shovel": {
+    "sounds": ["custom/shovel"]
+  },
+  "custom.siren": {
+    "sounds": ["custom/siren"]
+  },
+  "custom.slotmachine": {
+    "sounds": ["custom/slotmachine"]
+  },
+  "custom.slurp": {
+    "sounds": ["custom/slurp"]
+  },
+  "custom.snow_pea_sparkles": {
+    "sounds": ["custom/snow_pea_sparkles"]
+  },
+  "custom.splat": {
+    "sounds": ["custom/splat"]
+  },
+  "custom.splat2": {
+    "sounds": ["custom/splat2"]
+  },
+  "custom.splat3": {
+    "sounds": ["custom/splat3"]
+  },
+  "custom.squash_hmm": {
+    "sounds": ["custom/squash_hmm"]
+  },
+  "custom.squash_hmm2": {
+    "sounds": ["custom/squash_hmm2"]
+  },
+  "custom.sukhbir": {
+    "sounds": ["custom/sukhbir"]
+  },
+  "custom.sukhbir2": {
+    "sounds": ["custom/sukhbir2"]
+  },
+  "custom.sukhbir3": {
+    "sounds": ["custom/sukhbir3"]
+  },
+  "custom.sukhbir4": {
+    "sounds": ["custom/sukhbir4"]
+  },
+  "custom.sukhbir5": {
+    "sounds": ["custom/sukhbir5"]
+  },
+  "custom.sukhbir6": {
+    "sounds": ["custom/sukhbir6"]
+  },
+  "custom.swing": {
+    "sounds": ["custom/swing"]
+  },
+  "custom.tap": {
+    "sounds": ["custom/tap"]
+  },
+  "custom.tap2": {
+    "sounds": ["custom/tap2"]
+  },
+  "custom.throw": {
+    "sounds": ["custom/throw"]
+  },
+  "custom.throw2": {
+    "sounds": ["custom/throw2"]
+  },
+  "custom.thunder": {
+    "sounds": ["custom/thunder"]
+  },
+  "custom.vase_breaking": {
+    "sounds": ["custom/vase_breaking"]
+  },
+  "custom.wakeup": {
+    "sounds": ["custom/wakeup"]
+  },
+  "custom.watering": {
+    "sounds": ["custom/watering"]
+  },
+  "custom.winmusic": {
+    "sounds": ["custom/winmusic"]
+  },
+  "custom.yuck": {
+    "sounds": ["custom/yuck"]
+  },
+  "custom.yuck2": {
+    "sounds": ["custom/yuck2"]
+  },
+  "custom.zamboni": {
+    "sounds": ["custom/zamboni"]
+  },
+  "custom.zombaquarium_die": {
+    "sounds": ["custom/zombaquarium_die"]
+  },
+  "custom.zombiesplash": {
+    "sounds": ["custom/zombiesplash"]
+  },
+  "custom.zombie_entering_water": {
+    "sounds": ["custom/zombie_entering_water"]
+  },
+  "custom.zombie_falling_1": {
+    "sounds": ["custom/zombie_falling_1"]
+  },
+  "custom.zombie_falling_2": {
+    "sounds": ["custom/zombie_falling_2"]
+  },
+  "custom.pvz_theme": {
+    "sounds": ["custom/pvz_theme"]
+  },
+  "custom.pvz_day": {
+    "sounds": ["custom/pvz_day"]
+  }
+}
