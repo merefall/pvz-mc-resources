@@ -115,6 +115,9 @@
   "custom.coin": {
     "sounds": ["custom/coin"]
   },
+  "custom.chooseyourseeds": {
+    "sounds": ["custom/choose-your-seeds"]
+  },
   "custom.crazydavecrazy": {
     "sounds": ["custom/crazydavecrazy"]
   },
