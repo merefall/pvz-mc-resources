@@ -132,7 +132,7 @@
 			"translation": [0, 0, -2.25]
 		},
 		"on_shelf": {
-			"rotation": [0, 180, 0]
+			"rotation": [0, -180, 0]
 		}
 	},
 	"groups": [
